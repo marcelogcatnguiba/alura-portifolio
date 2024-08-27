@@ -1,0 +1,55 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.tema-escuro
+{
+    background-color: black;
+    color: white;
+}
+
+body
+{
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.conteudo-principal
+{
+    display: flex;
+    gap: 40px;
+}
+
+.div-descricao
+{
+    width: 25%;   
+}
+
+.imagem
+{
+    width: 25%;
+}
+
+.destaque 
+{
+    color: #22d4fd;
+}
+
+.div-botoes
+{
+    display: flex;
+    flex-direction: row;
+    gap: 25%;
+    justify-content: center;
+}
+
+.botoes
+{
+    background-color: #22d4fd;
+    color: black;
+    padding: 15px 35px;
+    margin: 0;
+    border-radius: 3px;
+}
