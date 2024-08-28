@@ -7,3 +7,4 @@
 - Realizar import de fonte direto no arquivo CSS com `@import`.
 - No figma segura alt para verificar valores de padding e fazer a subtracao para que o elemento tenha o mesmo tamanho.
 - Padrao de nomenclatura de classes utilizando o `__` do pai como exemplo `class = "conteudo", class = "conteudo__principal"`.
+- 16px = 1rem
